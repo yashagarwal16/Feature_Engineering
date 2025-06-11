@@ -33,7 +33,6 @@ Now your model can use these **better features** to make smarter decisions.
 
 ## 🖼️ Visual Example (Diagram Placeholder)
 
-> ![Feature Engineering Flow Example](https://via.placeholder.com/800x300?text=Feature+Engineering+Example+Diagram)
 
 You can replace this placeholder with a real diagram showing raw data ➡️ engineered features ➡️ better predictions.
 
